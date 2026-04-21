@@ -50,7 +50,7 @@ Siempre predispuesto para cualquier PROYECTO 🚀</i></p>
       <!-- 🛠️ Herramientas y entornos de desarrollo -->
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=800&pause=1000&color=307DA8&center=false&vCenter=true&width=450&height=35&lines=🛠️+Herramientas+y+entornos+de+desarrollo" />
       <br><br>
-      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,replit,sublime,github,git" />
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudiocode,cursor,github,git" />
       <br><br><br>
       <!-- ⚙️ Otras herramientas útiles -->
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=800&pause=1000&color=3041A8&center=false&vCenter=true&width=400&height=35&lines=⚙️+Otras+herramientas+útiles" />
