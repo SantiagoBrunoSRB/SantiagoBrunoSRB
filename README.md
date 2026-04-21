@@ -6,7 +6,7 @@
 <!--  -->
 <p align="center">
   <a href="https://github.com/SantiagoBrunoSRB">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&size=30&center=true&vCenter=true&width=1200&height=100&lines=%C2%A1Hola!+Soy+Huarachi+Wilson.;Estudiante+de+Ingenier%C3%ADa+en+Inform%C3%A1tica.;Apasionado+por+la+tecnolog%C3%ADa+y+la+innovaci%C3%B3n.;Autodidacta,+siempre+aprendiendo+y+mejorando.+%F0%9F%92%BB%F0%9F%9A%80">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&size=30&center=true&vCenter=true&width=1200&height=100&lines=%C2%A1Hola!+Soy+Santiago+Bruno.;Estudiante+de+Ingenier%C3%ADa+en+Inform%C3%A1tica.;Apasionado+por+la+tecnolog%C3%ADa+y+la+innovaci%C3%B3n.;Autodidacta,+siempre+aprendiendo+y+mejorando.+%F0%9F%92%BB%F0%9F%9A%80">
   </a>
 </p>
 
