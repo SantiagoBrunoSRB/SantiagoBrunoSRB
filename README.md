@@ -48,7 +48,11 @@ Siempre predispuesto para cualquier PROYECTO 🚀</i></p>
     <!-- Columna 2 -->
     <td valign="top" width="50%" style="padding-left: 20px;">
       <!-- 🛠️ Herramientas y entornos de desarrollo -->
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=800&pause=1000&color=307DA8&center=false&vCenter=true&width=450&height=35&lines=🛠️+Herramientas+y+entornos+de+desarrollo" />
+      <div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=800&pause=1000&color=307DA8&center=false&vCenter=true&width=450&height=35&lines=Herramientas+y+entornos+de+desarrollo" />
+  
+  <span style="font-size: 20px;">🛠️ 💻 ⚙️</span>
+</div>
       <br><br>
       <img src="https://skillicons.dev/icons?i=vscode,visualstudiocode,cursor,github,git" />
       <br><br><br>
