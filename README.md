@@ -53,8 +53,7 @@
 
 ### ⚙️ Otros
 <img src="https://skillicons.dev/icons?i=docker,wordpress" />
-<img src="https://skills.syvixor.com/api/icons?i=n8n
-" />
+<img src="https://skills.syvixor.com/api/icons?i=n8n" />
 
 
 </td>
